@@ -23,118 +23,118 @@
       
       
        <item col="0" row="3" colSpan="12" rowSpan="9" >
-        <map style-shapeColor="magenta" >
+        <map style-shapeColor="blue" >
           <markers>
             
-            <m lat="24.466666666666665" lon="54.366667" color="yellow"/>
-            <m lat="-34.583333333333336" lon="-58.666667" color="yellow"/>
-            <m lat="48.2" lon="16.366667" color="yellow"/>
-            <m lat="-35.266666666666666" lon="149.133333" color="yellow"/>
-            <m lat="40.38333333333333" lon="49.866667" color="yellow"/>
-            <m lat="50.833333333333336" lon="4.333333" color="yellow"/>
-            <m lat="4.883333333333333" lon="114.933333" color="yellow"/>
-            <m lat="-15.783333333333333" lon="-47.916667" color="yellow"/>
-            <m lat="53.9" lon="27.566667" color="yellow"/>
-            <m lat="45.416666666666664" lon="-75.700000" color="yellow"/>
-            <m lat="46.916666666666664" lon="7.466667" color="yellow"/>
-            <m lat="-33.45" lon="-70.666667" color="yellow"/>
-            <m lat="39.916666666666664" lon="116.383333" color="yellow"/>
-            <m lat="4.6" lon="-74.083333" color="yellow"/>
-            <m lat="12.1" lon="-68.916667" color="yellow"/>
-            <m lat="50.083333333333336" lon="14.466667" color="yellow"/>
-            <m lat="52.516666666666666" lon="13.400000" color="yellow"/>
-            <m lat="55.666666666666664" lon="12.583333" color="yellow"/>
-            <m lat="-0.21666666666666667" lon="-78.500000" color="yellow"/>
-            <m lat="59.43333333333333" lon="24.716667" color="yellow"/>
-            <m lat="30.05" lon="31.250000" color="yellow"/>
-            <m lat="40.4" lon="-3.683333" color="yellow"/>
-            <m lat="60.166666666666664" lon="24.933333" color="yellow"/>
-            <m lat="48.86666666666667" lon="2.333333" color="yellow"/>
-            <m lat="51.5" lon="-0.083333" color="yellow"/>
-            <m lat="41.68333333333333" lon="44.833333" color="yellow"/>
-            <m lat="37.983333333333334" lon="23.733333" color="yellow"/>
-            <m lat="14.616666666666667" lon="-90.516667" color="yellow"/>
-            <m lat="22.29" lon="114.16" color="yellow"/>
-            <m lat="45.8" lon="16.000000" color="yellow"/>
-            <m lat="47.5" lon="19.083333" color="yellow"/>
-            <m lat="-6.166666666666667" lon="106.816667" color="yellow"/>
-            <m lat="31.766666666666666" lon="35.233333" color="yellow"/>
-            <m lat="28.6" lon="77.200000" color="yellow"/>
-            <m lat="41.9" lon="12.483333" color="yellow"/>
-            <m lat="35.68333333333333" lon="139.750000" color="yellow"/>
-            <m lat="-1.2833333333333332" lon="36.816667" color="yellow"/>
-            <m lat="37.55" lon="126.983333" color="yellow"/>
-            <m lat="51.166666666666664" lon="71.416667" color="yellow"/>
-            <m lat="6.916666666666667" lon="79.833333" color="yellow"/>
-            <m lat="54.68333333333333" lon="25.316667" color="yellow"/>
-            <m lat="49.6" lon="6.116667" color="yellow"/>
-            <m lat="56.95" lon="24.100000" color="yellow"/>
-            <m lat="34.016666666666666" lon="-6.816667" color="yellow"/>
-            <m lat="42.43333333333333" lon="19.266667" color="yellow"/>
-            <m lat="22.20" lon="113.55" color="yellow"/>
-            <m lat="35.88333333333333" lon="14.500000" color="yellow"/>
-            <m lat="-20.15" lon="57.483333" color="yellow"/>
-            <m lat="19.433333333333334" lon="-99.133333" color="yellow"/>
-            <m lat="3.1666666666666665" lon="101.700000" color="yellow"/>
-            <m lat="9.083333333333334" lon="7.533333" color="yellow"/>
-            <m lat="52.35" lon="4.916667" color="yellow"/>
-            <m lat="59.916666666666664" lon="10.750000" color="yellow"/>
-            <m lat="-41.3" lon="174.783333" color="yellow"/>
-            <m lat="23.616666666666667" lon="58.583333" color="yellow"/>
-            <m lat="-12.05" lon="-77.050000" color="yellow"/>
-            <m lat="52.25" lon="21.000000" color="yellow"/>
-            <m lat="38.71666666666667" lon="-9.133333" color="yellow"/>
-            <m lat="25.283333333333335" lon="51.533333" color="yellow"/>
-            <m lat="44.43333333333333" lon="26.100000" color="yellow"/>
-            <m lat="55.75" lon="37.600000" color="yellow"/>
-            <m lat="59.333333333333336" lon="18.050000" color="yellow"/>
-            <m lat="1.2833333333333332" lon="103.850000" color="yellow"/>
-            <m lat="46.05" lon="14.516667" color="yellow"/>
-            <m lat="48.15" lon="17.116667" color="yellow"/>
-            <m lat="13.75" lon="100.516667" color="yellow"/>
-            <m lat="36.8" lon="10.183333" color="yellow"/>
-            <m lat="39.93333333333333" lon="32.866667" color="yellow"/>
-            <m lat="25.033333333333335" lon="121.516667" color="yellow"/>
-            <m lat="-6.8" lon="39.283333" color="yellow"/>
-            <m lat="50.43333333333333" lon="30.516667" color="yellow"/>
-            <m lat="38.883333" lon="-77.000000" color="yellow"/>
-            <m lat="-34.85" lon="-56.166667" color="yellow"/>
-            <m lat="-25.7" lon="28.216667" color="yellow"/>
+            <m lat="24.466666666666665" lon="54.366667" color="yellow" char="^"/>
+            <m lat="-34.583333333333336" lon="-58.666667" color="yellow" char="^"/>
+            <m lat="48.2" lon="16.366667" color="yellow" char="^"/>
+            <m lat="-35.266666666666666" lon="149.133333" color="yellow" char="^"/>
+            <m lat="40.38333333333333" lon="49.866667" color="yellow" char="^"/>
+            <m lat="50.833333333333336" lon="4.333333" color="yellow" char="^"/>
+            <m lat="4.883333333333333" lon="114.933333" color="yellow" char="^"/>
+            <m lat="-15.783333333333333" lon="-47.916667" color="yellow" char="^"/>
+            <m lat="53.9" lon="27.566667" color="yellow" char="^"/>
+            <m lat="45.416666666666664" lon="-75.700000" color="yellow" char="^"/>
+            <m lat="46.916666666666664" lon="7.466667" color="yellow" char="^"/>
+            <m lat="-33.45" lon="-70.666667" color="yellow" char="^"/>
+            <m lat="39.916666666666664" lon="116.383333" color="yellow" char="^"/>
+            <m lat="4.6" lon="-74.083333" color="yellow" char="^"/>
+            <m lat="12.1" lon="-68.916667" color="yellow" char="^"/>
+            <m lat="50.083333333333336" lon="14.466667" color="yellow" char="^"/>
+            <m lat="52.516666666666666" lon="13.400000" color="yellow" char="^"/>
+            <m lat="55.666666666666664" lon="12.583333" color="yellow" char="^"/>
+            <m lat="-0.21666666666666667" lon="-78.500000" color="yellow" char="^"/>
+            <m lat="59.43333333333333" lon="24.716667" color="yellow" char="^"/>
+            <m lat="30.05" lon="31.250000" color="yellow" char="^"/>
+            <m lat="40.4" lon="-3.683333" color="yellow" char="^"/>
+            <m lat="60.166666666666664" lon="24.933333" color="yellow" char="^"/>
+            <m lat="48.86666666666667" lon="2.333333" color="yellow" char="^"/>
+            <m lat="51.5" lon="-0.083333" color="yellow" char="^"/>
+            <m lat="41.68333333333333" lon="44.833333" color="yellow" char="^"/>
+            <m lat="37.983333333333334" lon="23.733333" color="yellow" char="^"/>
+            <m lat="14.616666666666667" lon="-90.516667" color="yellow" char="^"/>
+            <m lat="22.29" lon="114.16" color="yellow" char="^"/>
+            <m lat="45.8" lon="16.000000" color="yellow" char="^"/>
+            <m lat="47.5" lon="19.083333" color="yellow" char="^"/>
+            <m lat="-6.166666666666667" lon="106.816667" color="yellow" char="^"/>
+            <m lat="31.766666666666666" lon="35.233333" color="yellow" char="^"/>
+            <m lat="28.6" lon="77.200000" color="yellow" char="^"/>
+            <m lat="41.9" lon="12.483333" color="yellow" char="^"/>
+            <m lat="35.68333333333333" lon="139.750000" color="yellow" char="^"/>
+            <m lat="-1.2833333333333332" lon="36.816667" color="yellow" char="^"/>
+            <m lat="37.55" lon="126.983333" color="yellow" char="^"/>
+            <m lat="51.166666666666664" lon="71.416667" color="yellow" char="^"/>
+            <m lat="6.916666666666667" lon="79.833333" color="yellow" char="^"/>
+            <m lat="54.68333333333333" lon="25.316667" color="yellow" char="^"/>
+            <m lat="49.6" lon="6.116667" color="yellow" char="^"/>
+            <m lat="56.95" lon="24.100000" color="yellow" char="^"/>
+            <m lat="34.016666666666666" lon="-6.816667" color="yellow" char="^"/>
+            <m lat="42.43333333333333" lon="19.266667" color="yellow" char="^"/>
+            <m lat="22.20" lon="113.55" color="yellow" char="^"/>
+            <m lat="35.88333333333333" lon="14.500000" color="yellow" char="^"/>
+            <m lat="-20.15" lon="57.483333" color="yellow" char="^"/>
+            <m lat="19.433333333333334" lon="-99.133333" color="yellow" char="^"/>
+            <m lat="3.1666666666666665" lon="101.700000" color="yellow" char="^"/>
+            <m lat="9.083333333333334" lon="7.533333" color="yellow" char="^"/>
+            <m lat="52.35" lon="4.916667" color="yellow" char="^"/>
+            <m lat="59.916666666666664" lon="10.750000" color="yellow" char="^"/>
+            <m lat="-41.3" lon="174.783333" color="yellow" char="^"/>
+            <m lat="23.616666666666667" lon="58.583333" color="yellow" char="^"/>
+            <m lat="-12.05" lon="-77.050000" color="yellow" char="^"/>
+            <m lat="52.25" lon="21.000000" color="yellow" char="^"/>
+            <m lat="38.71666666666667" lon="-9.133333" color="yellow" char="^"/>
+            <m lat="25.283333333333335" lon="51.533333" color="yellow" char="^"/>
+            <m lat="44.43333333333333" lon="26.100000" color="yellow" char="^"/>
+            <m lat="55.75" lon="37.600000" color="yellow" char="^"/>
+            <m lat="59.333333333333336" lon="18.050000" color="yellow" char="^"/>
+            <m lat="1.2833333333333332" lon="103.850000" color="yellow" char="^"/>
+            <m lat="46.05" lon="14.516667" color="yellow" char="^"/>
+            <m lat="48.15" lon="17.116667" color="yellow" char="^"/>
+            <m lat="13.75" lon="100.516667" color="yellow" char="^"/>
+            <m lat="36.8" lon="10.183333" color="yellow" char="^"/>
+            <m lat="39.93333333333333" lon="32.866667" color="yellow" char="^"/>
+            <m lat="25.033333333333335" lon="121.516667" color="yellow" char="^"/>
+            <m lat="-6.8" lon="39.283333" color="yellow" char="^"/>
+            <m lat="50.43333333333333" lon="30.516667" color="yellow" char="^"/>
+            <m lat="38.883333" lon="-77.000000" color="yellow" char="^"/>
+            <m lat="-34.85" lon="-56.166667" color="yellow" char="^"/>
+            <m lat="-25.7" lon="28.216667" color="yellow" char="^"/>
 
-            <m lat="-35.266666666666666" lon="149.133333" color="cyan"/>
-            <m lat="45.416666666666664" lon="-75.700000" color="cyan"/>
-            <m lat="46.916666666666664" lon="7.466667" color="cyan"/>
-            <m lat="52.516666666666666" lon="13.400000" color="cyan"/>
-            <m lat="60.166666666666664" lon="24.933333" color="cyan"/>
-            <m lat="47.5" lon="19.083333" color="cyan"/>
-            <m lat="41.9" lon="12.483333" color="cyan"/>
-            <m lat="35.68333333333333" lon="139.750000" color="cyan"/>
-            <m lat="52.35" lon="4.916667" color="cyan"/>
-            <m lat="59.916666666666664" lon="10.750000" color="cyan"/>
-            <m lat="-41.3" lon="174.783333" color="cyan"/>
-            <m lat="59.333333333333336" lon="18.050000" color="cyan"/>
-            <m lat="38.883333" lon="-77.000000" color="cyan"/>
+            <m lat="-35.266666666666666" lon="149.133333" color="cyan" char="@"/>
+            <m lat="45.416666666666664" lon="-75.700000" color="cyan" char="@"/>
+            <m lat="46.916666666666664" lon="7.466667" color="cyan" char="@"/>
+            <m lat="52.516666666666666" lon="13.400000" color="cyan" char="@"/>
+            <m lat="60.166666666666664" lon="24.933333" color="cyan" char="@"/>
+            <m lat="47.5" lon="19.083333" color="cyan" char="@"/>
+            <m lat="41.9" lon="12.483333" color="cyan" char="@"/>
+            <m lat="35.68333333333333" lon="139.750000" color="cyan" char="@"/>
+            <m lat="52.35" lon="4.916667" color="cyan" char="@"/>
+            <m lat="59.916666666666664" lon="10.750000" color="cyan" char="@"/>
+            <m lat="-41.3" lon="174.783333" color="cyan" char="@"/>
+            <m lat="59.333333333333336" lon="18.050000" color="cyan" char="@"/>
+            <m lat="38.883333" lon="-77.000000" color="cyan" char="@"/>
 
-            <m lat="-35.266666666666666" lon="149.133333" color="green"/>
-            <m lat="23.716666666666665" lon="90.400000" color="green"/>
-            <m lat="4.883333333333333" lon="114.933333" color="green"/>
-            <m lat="39.916666666666664" lon="116.383333" color="green"/>
-            <m lat="22.29" lon="114.16" color="green"/>
-            <m lat="-6.166666666666667" lon="106.816667" color="green"/>
-            <m lat="28.6" lon="77.200000" color="green"/>
-            <m lat="35.68333333333333" lon="139.750000" color="green"/>
-            <m lat="37.55" lon="126.983333" color="green"/>
-            <m lat="17.966666666666665" lon="102.600000" color="green"/>
-            <m lat="6.916666666666667" lon="79.833333" color="green"/>
-            <m lat="16.8" lon="96.150000" color="green"/>
-            <m lat="47.916666666666664" lon="106.916667" color="green"/>
-            <m lat="22.20" lon="113.55" color="green"/>
-            <m lat="3.1666666666666665" lon="101.700000" color="green"/>
-            <m lat="-41.3" lon="174.783333" color="green"/>
-            <m lat="1.2833333333333332" lon="103.850000" color="green"/>
-            <m lat="13.75" lon="100.516667" color="green"/>
-            <m lat="25.033333333333335" lon="121.516667" color="green"/>
-            <m lat="21.033333333333335" lon="105.850000" color="green"/>
+            <m lat="-35.266666666666666" lon="149.133333" color="green" char="#" char="#"/>
+            <m lat="23.716666666666665" lon="90.400000" color="green" char="#"/>
+            <m lat="4.883333333333333" lon="114.933333" color="green" char="#"/>
+            <m lat="39.916666666666664" lon="116.383333" color="green" char="#"/>
+            <m lat="22.29" lon="114.16" color="green" char="#"/>
+            <m lat="-6.166666666666667" lon="106.816667" color="green" char="#"/>
+            <m lat="28.6" lon="77.200000" color="green" char="#"/>
+            <m lat="35.68333333333333" lon="139.750000" color="green" char="#"/>
+            <m lat="37.55" lon="126.983333" color="green" char="#"/>
+            <m lat="17.966666666666665" lon="102.600000" color="green" char="#"/>
+            <m lat="6.916666666666667" lon="79.833333" color="green" char="#"/>
+            <m lat="16.8" lon="96.150000" color="green" char="#"/>
+            <m lat="47.916666666666664" lon="106.916667" color="green" char="#"/>
+            <m lat="22.20" lon="113.55" color="green" char="#"/>
+            <m lat="3.1666666666666665" lon="101.700000" color="green" char="#"/>
+            <m lat="-41.3" lon="174.783333" color="green" char="#"/>
+            <m lat="1.2833333333333332" lon="103.850000" color="green" char="#"/>
+            <m lat="13.75" lon="100.516667" color="green" char="#"/>
+            <m lat="25.033333333333335" lon="121.516667" color="green" char="#"/>
+            <m lat="21.033333333333335" lon="105.850000" color="green" char="#"/>
 
 
           </markers>

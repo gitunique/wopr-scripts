@@ -10,6 +10,6 @@ A complete sample is included in cert-communities.xml
 
 	export COLOUR=green
 	export FILE=input_file
-	for cc in $(cat $FILE ); do grep ,$cc, country-capitals.csv; done | awk -F, -v var=$COLOUR '{print "<m lat=\""$3"\: lon=\""$4"\" color=\""var"\">"}'
+	for cc in $(cat $FILE ); do grep ,$cc, inputs/country-capitals.csv; done | awk -F, -v var=$COLOUR '{print "<m lat=\""$3"\" lon=\""$4"\" color=\""var"\"/>"}'
 
 

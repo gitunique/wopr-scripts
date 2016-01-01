@@ -7,6 +7,7 @@ To do this, a list of ccTLDs per community is used to get the lat and long coord
 A complete sample is included in cert-communities.xml
 
 .. code-block:: guess 
+
 	export COLOUR=green
 	export FILE=input_file
 	for cc in $(cat $FILE ); do grep ,$cc, country-capitals.csv; done | awk -F, '{print "<m lat=\""$3"\: lon=\""$4"\" color=\"$COLOUR\">"}'
